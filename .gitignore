@@ -1,0 +1,26 @@
+__pycache__
+*.pyc
+.DS_Store
+*.swp
+.env
+*.sqlite3
+/venv/
+/.venv/
+/tmp/
+/env/.env
+/static/
+/.vagrant/
+/Vagrantfile.local
+node_modules/
+/npm-debug.log
+/.idea/
+.vscode
+coverage
+.python-version
+.vim
+<<<<<<< HEAD
+.env
+=======
+.env*
+.env.production
+>>>>>>> e0e770d (env production keys added)
